@@ -1,5 +1,6 @@
 #this line is part of the initial commit to the production (master) branch
 #this lins is part of master branch commit 2
+#this line is part of hotfix branch commit 1
 #this line is part of integration branch commit 1
 #this line is part of feature 2 branch commit 1
 #this line is part of feature 2 branch commit 2
